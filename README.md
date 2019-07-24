@@ -44,6 +44,7 @@
   | impas       | `import … as`                      |
   | let         | `let … in …`                       |
   | mod         | `module`                           |
+  | template    | `elm-template`                     |
   | type        | `type`                             |
   | typea       | `type alias (Record)`              |
 
